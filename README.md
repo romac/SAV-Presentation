@@ -3,7 +3,7 @@
 
 > This is the code and slides for my presentation of the [Efficient E-Matching for SMT solvers](https://dl.acm.org/citation.cfm?id=1420872) paper for the [Synthesis and Verification class](http://lara.epfl.ch/w/sav17:top) at EPFL.
 
-[Check out the rendered PDF slides](slides.pdf)
+[Check out the rendered PDF slides](e-matching.pdf)
 
 ## References
 
