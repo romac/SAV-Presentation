@@ -1,0 +1,12 @@
+*.py
+*.html
+*.aux
+*.bbl
+*.bcf
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.tex
+*.toc
